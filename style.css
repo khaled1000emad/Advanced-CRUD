@@ -1,0 +1,50 @@
+#box{
+  
+  width:400px;
+  padding: 50px;
+  margin: auto;
+  text-align: center;
+}
+
+#header-box{
+  border: 3px solid lightseagreen;
+  border-radius: 12px;
+}
+#fname{
+  width: 220px;
+  height: 25px;
+  border: 1.5px solid lightseagreen;
+  border-radius: 4px;
+}
+#lname{
+  width: 220px;
+  height: 25px;
+  border: 1.5px solid lightseagreen;
+  border-radius: 4px;
+}
+#country{
+  width: 220px;
+  height: 25px;
+  border: 1.5px solid lightseagreen;
+  border-radius: 4px;
+}
+#add-button{
+  background-color: transparent;
+  color: lightseagreen;
+  border: 2px solid lightseagreen;
+  width: 70px;
+  height: 30px;
+}
+#add-button:hover{
+  background-color: lightseagreen;
+  color: white;
+}
+.done{
+  background-color: lightgreen;
+  width: 150px;
+  height: 50px;
+  margin: auto;
+  border: 2px solid mediumseagreen;
+  margin-top: 2em;
+  border-radius: 3px;
+}
